@@ -1,0 +1,146 @@
+nav{
+ background-color: rgba(102, 204, 255, 1);
+ font-family: 'Lobster', cursive;
+ border-bottom: solid white 0.5px;
+}
+.navbar-brand{
+  font-weight:normal;
+  font-size: 20px;
+  color: rgb(51, 133, 255);
+}
+.navi{
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.login-link{
+color: rgb(255, 255, 255);
+}
+.welcome{
+  border: white solid 0.2px;
+  margin-top: -50px;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-size:cover;
+}
+.welcomecontent{
+  height: 290px;
+  margin-top: 180px;
+  text-align: center;
+  color: rgb(260, 260, 260);
+  font-family: 'Lobster', cursive;
+  background-color: rgba(102, 204, 255, 0.7);
+  border-top: solid white 0.5px;
+  border-bottom: solid white 0.5px;
+}
+.welcomecontent h2{
+    margin: 20px;
+  margin-top: 25px;
+  color: rgb(0, 0, 0);
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  font-weight: bold;
+}
+.welcomecontent h4{
+font-family: 'Dosis', cursive;
+margin: 20px;
+}
+.chattychat{
+  border: white solid 0.2px;
+  margin-top: -50px;
+  width: 100%;
+  height: auto;
+  background-repeat: repeat-y;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-size: contain;
+}
+.chattychat_input{
+  margin: 100px 0px 100px 0px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: 'Lobster', cursive;
+  background-color: rgba(102, 204, 255, 0.7);
+  border-top: solid white 0.5px;
+  border-bottom: solid white 0.5px;
+  padding: 30px 0px;
+}
+i{
+color: rgb(255, 193, 7);
+}
+.block{
+float: left;
+margin-left: 50px;
+}
+.icons{
+background-color: rgb(255, 255, 255);
+margin: 70px 0px 50px 0px;
+width: 100%;
+color: white;
+}
+
+h5{
+width: 250px;
+box-sizing: border-box;
+margin: 0px auto;
+font-family: 'Lobster', cursive;
+}
+p{
+width: 250px;
+box-sizing: border-box;
+margin: 20px auto;
+font-family: 'Dosis', cursive;
+}
+.chattychat_window{
+ margin: 20px 0px 0px 0px;
+ padding: 40px 0px 60px 0px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+ font-family: 'Dosis', cursive;
+  background-color: rgba(102, 204, 255, 0.7);
+}
+
+.chattychat_window h1{
+font-family: 'Lobster', cursive;
+}
+
+.form-group{
+  font-family: 'Dosis', cursive;
+}
+.footermain{
+border-top: solid white 0.5px;
+  text-align: center;
+  background-color: rgba(102, 204, 255, 1);
+  font-family: 'Lobster', cursive;
+
+  position: fixed;
+  bottom: 0px;
+  color: white;
+  width: 100%;
+}
+.socicon div{
+  float: left;
+  margin: 6px 10px 2px 5px;
+}
+.socicon .copy{
+  float: left;
+  font-size: 16px;
+  margin: 0px 10px -5px 5px;
+}
+.btn{
+font-size: 18px;
+font-family: 'Dosis', cursive;
+}
+.footermain a{
+color: white;
+}
+
+.footermain a:hover{
+color: rgb(255, 193, 7);
+}
